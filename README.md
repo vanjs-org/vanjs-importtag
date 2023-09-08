@@ -1,12 +1,12 @@
 # vanjs-importtag README
 
-This is the VS Code extension for the command that can import tag functions at the current cursor.
+This is the VS Code extension for the command that can import tag functions at the cursor.
 
 ## Command Reference
 
 ### `VanJS: import tag` (`vanjs-importtag.import`)
 
-Import the tag function at the current cursor. For instance, if the symbol at the current cursor is `span`, this commands will add `span` into tag function importing line. It supports the importing line in this way:
+Import the tag function at the cursor. For instance, if the symbol at the cursor is `span`, this commands will add `span` into tag function importing line. It supports the importing line in this way:
 
 ```js
 const {a, div, li, p, ul} = van.tags
