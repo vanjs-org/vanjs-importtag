@@ -52,3 +52,7 @@ You can bind the command with a shortcut of your preference. For instance, the f
 ```
 
 will bind the command with shortcut `ctrl+/ t`.
+
+## See Also:
+
+https://github.com/vanjs-org/vanjsHelper: The VS Code extension as my personal helper for writing **VanJS** code and **Mini-Van** code. Specifically, it defines commands that are helpful for building the https://vanjs.org/ website.
