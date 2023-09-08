@@ -27,6 +27,16 @@
     "lint": "eslint src --ext ts",
     "test": "node ./out/test/runTest.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vanjs-org/vanjs-importtag.git"
+  },
+  "author": "Tao Xin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vanjs-org/vanjs-importtag/issues"
+  },
+  "homepage": "https://github.com/vanjs-org/vanjs-importtag",
   "devDependencies": {
     "@types/mocha": "^10.0.1",
     "@types/node": "16.x",
