@@ -3,6 +3,7 @@
   "displayName": "vanjs-importtag",
   "description": "Command to import VanJS tag functions in the current file",
   "version": "0.1.0",
+  "publisher": "TaoXin",
   "engines": {
     "vscode": "^1.81.0"
   },
